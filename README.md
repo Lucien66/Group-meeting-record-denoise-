@@ -32,7 +32,7 @@
 * Schedule in 2022 组会汇报安排：
 
 &emsp;&emsp;&emsp;&emsp;Week 1<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Reporter A. <br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Speaker A. <br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Title: Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paper：https://arxiv.org/pdf/2203.06967.pdf<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Code： https://github.com/demonsjin/blind2unblind <br/> 
@@ -43,7 +43,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 23 / 8月23日
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Reporter B. <br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;peaker B. <br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Title: Boosting Video Super Resolution with Patch-Based Temporal Redundancy Optimization<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paper: https://arxiv.org/pdf/2207.08674v1.pdf <br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Code:  https://github.com/hyhsimon/boosted-vsr <br/> 
